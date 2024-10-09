@@ -9,7 +9,7 @@ api: https://pub.dev/documentation/flutter_treeview/latest/
 #author: kevinandre.com <kevin@codeninelabs.com>
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.14.0 <4.0.0"
 
 dependencies:
   flutter:
